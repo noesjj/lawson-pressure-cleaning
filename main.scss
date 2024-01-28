@@ -1,8 +1,12 @@
-$card-cap-bg: #DCEDC8;
-$body-bg: rgba(241, 248, 233, 0.5);
+$card-cap-bg: #B3E5FC;
+$body-bg: rgb(225, 245, 254, .4);
 $card-bg: #ffffff;
 $list-group-bg: #ffffff;
 $card-border-color: none;
 $list-group-border-color: none;
 
 @import "node_modules/bootstrap/scss/bootstrap";
+
+.navbar {
+    padding: 14px;
+}
